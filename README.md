@@ -26,12 +26,12 @@ I'm a Competitive Programmer, I always Enjoy discovering new exciting technologi
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/java/index.html"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/github/index.html"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/index.html"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/kaggle/index.html"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/usepanda/index.html"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg"></code>
 
 
 
