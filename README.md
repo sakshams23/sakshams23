@@ -22,13 +22,14 @@ I'm a Competitive Programmer, I always Enjoy discovering new exciting technologi
 - 🍕 &nbsp; Hackathons & coding competitions
 
 ### Languages and Tools:
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
+
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg"></code>
@@ -46,3 +47,24 @@ View my [resume](https://drive.google.com/file/d/1f5m-HsDxbbHHCrG9aD1VHMft4zhmVm
 Ask me anything, at [email](mailto:sonisaksham931@gmail.com).
 <br>
 Happy Coding, my brothers! 💪🏽 <br>
+<summary><b> LeetCode Stats </b></summary>
+<br></br>
+
+![](https://leetcard.jacoblin.cool/sakshams23/?ext=heatmap)
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	  <li><b>OS:</b> Windows / Linux</li>
+  	  <li><b>Browser: </b> Chrome / Windows Edge</li>
+	  <li><b>Code Editor:</b> Visual Studio Code</li>
+	  <li><b>To Stay Updated:</b> Dev.to, Medium and Tech YouTube Channels</li>
+	</ul>
+</details>
+
+---
+
+<div align="center">
+
+### Thank you for reading, Share your ❤️ by starring some of the repositories! 🌟
