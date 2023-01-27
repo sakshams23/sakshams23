@@ -29,7 +29,7 @@ I'm a Competitive Programmer, I always Enjoy discovering new exciting technologi
 <code><img width="4%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-tile.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-official.svg"></code>
+<code>![Image]<img width="4%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-official.svg"></code>
 
 
 
