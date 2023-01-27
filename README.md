@@ -47,6 +47,14 @@ View my [resume](https://drive.google.com/file/d/1f5m-HsDxbbHHCrG9aD1VHMft4zhmVm
 Ask me anything, at [email](mailto:sonisaksham931@gmail.com).
 <br>
 Happy Coding, my brothers! 💪🏽 <br>
+### Projects and Dev Stuffs:
+
+ <summary><b>⚡ Github Stats</b></summary>
+ <br></br>
+
+ <img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=sakshams23&show_icons=true&theme=radical" />
+
+<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshams23&show_icons=true&theme=radical" />
 <summary><b> LeetCode Stats </b></summary>
 <br></br>
 
