@@ -12,8 +12,33 @@ I'm a Competitive Programmer, I always Enjoy discovering new exciting technologi
 
 - 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and Competitive Programming.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sakshams23).
-- 📫 &nbsp; How to reach me: sonisaksham20208@gmail.com
+- 📫 &nbsp; How to reach me: sonisaksham931@gmail.com
+
+
+### My Absolute Favorites: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
 
 - 💻 &nbsp; I love exploring new tech stack and developing new stuffs
 - 📰 &nbsp; Reading tech blogs whenever possible
 - 🍕 &nbsp; Hackathons & coding competitions
+
+### Languages and Tools:
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-tile.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-official.svg"></code>
+
+<code><img width="4%" src=""></code>
+
+
+
+
+
+
+View my [resume](https://drive.google.com/file/d/1f5m-HsDxbbHHCrG9aD1VHMft4zhmVm3g/view?usp=sharing),
+Ask me anything, at [email](mailto:sonisaksham931@gmail.com).
+<br>
+Happy Coding, my brothers! 💪🏽 <br>
