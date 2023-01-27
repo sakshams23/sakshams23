@@ -1,4 +1,4 @@
-## Hey <img alt="Hi" src="./images/Hi.gif" width="30px" height="30px" />, I'm Saksham Soni
+## Hey <img alt="Hi" src="./Hi.gif" width="30px" height="30px" />, I'm Saksham Soni
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-soni-5649a2192/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sakshams23/)
