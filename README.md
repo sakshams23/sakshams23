@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=F7F7F7&width=1000&height=95&lines=%22Step+into+the+world+of+code+and+technology%2C+where+possibilities+unfold+and+ideas+come+to+life.+Welcome+to+my+Git+profile%22)](https://git.io/typing-svg)
 ## Hey <img alt="Hi" src="./Hi.gif" width="30px" height="30px" />, I'm Saksham Soni
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-soni-5649a2192/)
@@ -6,7 +7,7 @@
 [![CodeChef Badge](https://img.shields.io/badge/Codeforces-%23B92B27.svg?&style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sakshams23)
 
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=sakshams23&label=Profile%20views&color=0e75b6&style=flat-square)
+ ![](https://komarev.com/ghpvc/?username=sakshams23&label=Profile%20views&color=0e75b6&style=flat-square) &nbsp;
 I'm a Competitive Programmer, I always Enjoy discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
 ### 🗣 Talking about Personal Stuffs:
 
