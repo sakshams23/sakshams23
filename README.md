@@ -8,10 +8,10 @@
 
 
  ![](https://komarev.com/ghpvc/?username=sakshams23&label=Profile%20views&color=0e75b6&style=flat-square) &nbsp;
-I'm a Competitive Programmer, I always Enjoy discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
+<br><br>I'm a Competitive Programmer, I always Enjoy discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms and learning React.js.
 ### 🗣 Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and Competitive Programming.
+- 🛠 &nbsp; I'm currently learning Web Development and Competitive Programming.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sakshams23).
 - 📫 &nbsp; How to reach me: sonisaksham931@gmail.com
 
@@ -44,7 +44,7 @@ I'm a Competitive Programmer, I always Enjoy discovering new exciting technologi
 
 
 
-View my [resume](https://drive.google.com/file/d/1f5m-HsDxbbHHCrG9aD1VHMft4zhmVm3g/view?usp=sharing),
+View my [resume](https://drive.google.com/file/d/1a8mohSUJi6WF1wTWic5eHyox3W_ykAwL/view?usp=sharing),
 Ask me anything, at [email](mailto:sonisaksham931@gmail.com).
 <br>
 Happy Coding, my brothers! 💪🏽 <br>
@@ -76,4 +76,4 @@ Happy Coding, my brothers! 💪🏽 <br>
 
 <div align="center">
 
-### Thank you for reading, Share your ❤️ by starring some of the repositories! 🌟
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&pause=1000&color=F7F7F7&width=900&height=95&lines=Thank+you+for+reading%2C+Share+your+%E2%9D%A4%EF%B8%8F+by+starring+some+of+the+repositories+%F0%9F%8C%9F)](https://git.io/typing-svg)
