@@ -1,4 +1,4 @@
-[![Holopin](https://holopin.onrender.com/vinitshahdeo)](https://holopin.io/@sakshams23)
+
 ## Hey <img alt="Hi" src="./Hi.gif" width="30px" height="30px" />, I'm Saksham Soni
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-soni-5649a2192/)
@@ -49,7 +49,7 @@ Ask me anything, at [email](mailto:sonisaksham931@gmail.com).
 <br>
 Happy Coding, my brothers! 💪🏽 <br>
 ### Projects and Dev Stuffs:
-
+[![@sakshams23's Holopin board](https://holopin.io/api/user/board?user=sakshams23)](https://holopin.io/@sakshams23)
  <summary><b>⚡ Github Stats</b></summary>
  <br></br>
 
