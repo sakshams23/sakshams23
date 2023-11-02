@@ -49,7 +49,7 @@ Ask me anything, at [email](mailto:sonisaksham931@gmail.com).
 <br>
 Happy Coding, my brothers! 💪🏽 <br>
 ### Projects and Dev Stuffs:
-[![@sakshams23's Holopin board](https://holopin.io/api/user/board?user=sakshams23)](https://holopin.io/@sakshams23)
+[![An image of @sakshams23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshams23)](https://holopin.io/@sakshams23)
  <summary><b>⚡ Github Stats</b></summary>
  <br></br>
 
