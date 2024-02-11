@@ -1,17 +1,43 @@
 
-## Hey <img alt="Hi" src="./Hi.gif" width="30px" height="30px" />, I'm Saksham Soni
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-soni-5649a2192/)
+## Hey <img alt="Hi" src="./Hi.gif" width="30px" height="30px" />, I'm Saksham Soni 
+ ### Front-end web developer | Competitive Programmer
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-soni-5649a2192/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sakshams23/)
 [![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/sakshams23)
 [![CodeChef Badge](https://img.shields.io/badge/Codeforces-%23B92B27.svg?&style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sakshams23)
 
 
  ![](https://komarev.com/ghpvc/?username=sakshams23&label=Profile%20views&color=0e75b6&style=flat-square) &nbsp;
-<br><br>I'm a Competitive Programmer, I always Enjoy discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms and learning React.js.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+> I'm a Competitive Programmer, I always Enjoy discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms and learning React.js.
+ 
+```javascript
+const saksham = {
+    pronouns: "He" | "Him",
+    code: ["C","C++","Java","Javascript", "Python","C#"],
+    askMeAbout: ["Web dev", "Tech", "Competitive Programming", "graphic designing"],
+    technologies: {
+        backEnd (learning): {
+            tech-stack: ["Node","Express"],
+        },
+        frontEnd: {
+            tech-stack: ["HTML","CSS","Tailwind","React.js"]
+        },
+        databases: ["mongo", "MySql"],
+        misc: ["postman", "mongo db compass", "vs-code", "sublime-text", "android studio", "illustrator"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "currently learning Back-end Development",
+    funFact: "Why do programmers prefer dark mode? Because light attracts bugs!"
+};
+```
+
+
+
+
 ### 🗣 Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently learning Web Development and Competitive Programming.
+- 🗃️ &nbsp; [Link to My Portfolio Website](https://my-portfolio-saksham.vercel.app/)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sakshams23).
 - 📫 &nbsp; How to reach me: sonisaksham931@gmail.com
 
