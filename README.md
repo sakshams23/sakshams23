@@ -9,7 +9,7 @@
 
  ![](https://komarev.com/ghpvc/?username=sakshams23&label=Profile%20views&color=0e75b6&style=flat-square) &nbsp;
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-> I'm a Competitive Programmer, I always Enjoy discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms and learning React.js.
+> I'm a Competitive Programmer, I always Enjoy discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on back-end development.
  
 ```javascript
 const saksham = {
