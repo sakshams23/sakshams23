@@ -18,7 +18,7 @@ const saksham = {
     askMeAbout: ["Web dev", "Tech", "Competitive Programming", "graphic designing"],
     technologies: {
         backEnd (learning): {
-            tech-stack: ["Node","Express"],
+            tech-stack: ["Node Js","Express Js", "Mongo DB"],
         },
         frontEnd: {
             tech-stack: ["HTML","CSS","Tailwind","React.js"]
@@ -37,7 +37,7 @@ const saksham = {
 
 ### 🗣 Talking about Personal Stuffs:
 
-- 🗃️ &nbsp; [Link to My Portfolio Website](https://my-portfolio-saksham.vercel.app/)
+- 🗃️ &nbsp; [Link to My Portfolio Website](https://my-portfolio-cj47.vercel.app/)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sakshams23).
 - 📫 &nbsp; How to reach me: sonisaksham931@gmail.com
 
@@ -49,6 +49,16 @@ const saksham = {
 - 🍕 &nbsp; Hackathons & coding competitions
 
 ### Languages and Tools:
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>
